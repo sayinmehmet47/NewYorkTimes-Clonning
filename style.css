@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: nyt-franklin;
+}
+
+body {
+  height: 100vh;
+}
+
+nav button {
+  background-color: #557a95;
+  color: #ffffff;
+  display: inline-block;
+  font-family: nyt-franklin;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.55px;
+  line-height: 11px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+main .head {
+  margin-top: 58px;
+}
+
+main .head h1 {
+  color: #121212;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  display: inline;
+  font-style: italic;
+}
+
+main .svg {
+  margin-top: 20px;
+}
+
+main .svg ul li {
+  list-style: none;
+  margin: 5px;
+}
+
+main figure {
+  color: #333333;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  line-height: 16px;
+  text-align: center;
+}
+
+main figure figcaption {
+  color: #666666;
+  font-size: small;
+  padding: 5px 3em;
+}
+
+main .paragraph {
+  padding-right: 5vw;
+  padding-left: 25vw;
+}
+
+main .paragraph .sign {
+  white-space: nowrap;
+  text-align: center;
+}
+
+main .paragraph span {
+  display: inline;
+  font-family: nyt-franklin;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 20px;
+  margin: 7px 0px;
+}
+
+main .paragraph p {
+  color: #333333;
+  font-family: nyt-imperial;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+main .paragraph .picture span {
+  padding-left: 10px;
+  font-size: small;
+}
+
+main .paragraph .comments button {
+  background-color: #557a95;
+  color: #ffffff;
+  display: inline-block;
+  font-family: nyt-franklin;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.55px;
+  line-height: 11px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+main .theory p {
+  font-size: smaller;
+}
+
+main .second-paragraph .css-1u3pw94 {
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 90px;
+  width: 700px;
+  height: 319px;
+}
+
+main .second-paragraph .css-1u3pw94 iframe {
+  width: 100%;
+  height: 100%;
+}
+/*# sourceMappingURL=style.css.map */
